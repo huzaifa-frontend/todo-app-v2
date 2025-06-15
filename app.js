@@ -41,3 +41,4 @@ function updateTodo(id) {
     todoItem.textContent = inpVal.value;
     inpVal.value = "";
 }
+
